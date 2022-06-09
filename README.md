@@ -2,7 +2,7 @@
 <div align="center"> 
   
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=ixxi's%20GitHub&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=Hi%20There&fontSize=30&fontColor=FFFFFF)
 <h2>🔭 I’m currently working on</h2>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
