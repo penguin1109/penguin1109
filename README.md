@@ -17,11 +17,12 @@
 
 <h2>🌱 I’m currently learning</h2>
 
-<img src="https://img.shields.io/badge/MachineVisionVision-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/MachineVision-000000?style=flat-square&logo=OpenAI"/></a>
 <img src="https://img.shields.io/badge/DeepLearning-000000?style=flat-square&logo=OpenAI"/></a>
-<img src="https://img.shields.io/badge/ComputerVision-000000?style=flat-square&logo=OpenAI"/></a> 
-<img src="https://img.shields.io/badge/Detection-000000?style=flat-square&logo=OpenAI"/></a>
-<img src="https://img.shields.io/badge/Segmentation-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/ComputerVision-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/ObjectDetection-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/AnomalyDetection-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/ImageSegmentation-000000?style=flat-square&logo=OpenAI"/></a>
 
 
 <h2>📫 How to reach me</h2>
