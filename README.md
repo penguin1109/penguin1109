@@ -4,12 +4,13 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=🐣Hi,%20There!&fontSize=30&fontColor=FFFFFF)
  
-  <h2> My Experiences are</h2>
-  ```
-  - GaussLabs Applied Scientist Intern (Computer Vision and Image Processing) 2022.6 ~ 2022.12
-  - Undergraduate Intern in MLV Lab of Korea University 2023.1 ~ ing
-  - GDSC Ewha Core Member 2022.08 ~ ing
-  ```
+ <h2> My Experiences are</h2>
+ 
+ 1. GaussLabs Applied Scientist Intern (Computer Vision and Image Processing) 2022.6 ~ 2022.12
+ 2. Undergraduate Intern in MLV Lab of Korea University 2023.1 ~ ing
+ 3. GDSC Ewha Core Member 2022.08 ~ ing
+ 4. BOAZ 16th Data Analyist Member 2021.1 ~ 2022.6
+  
 <h2>🔭 I’m currently working on</h2>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
