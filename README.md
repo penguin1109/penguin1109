@@ -4,7 +4,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=🐣Hi,%20There!&fontSize=30&fontColor=FFFFFF)
  
- <h2> My Experiences are</h2>
+ <h2> My Experiences are</h2>  
+ 
  - [GaussLabs](https://www.gausslabs.ai/) Applied Scientist Intern (Computer Vision and Image Processing) 2022.6 ~ 2022.12
  - Undergraduate Intern 2023.2 ~ ing  
  - GDSC Ewha Core Member 2022.08 ~ 2023.06
