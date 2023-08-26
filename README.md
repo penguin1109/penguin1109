@@ -38,5 +38,5 @@
 
 <!--![ixxi's github stats](https://github-readme-stats.vercel.app/api?username=penguin1109&show_icons=true&theme=dark) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2000flora)](https://solved.ac/2000flora)<br/>
-(https://hits.seeyoufarm.com)
+
 </div>
