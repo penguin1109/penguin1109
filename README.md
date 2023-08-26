@@ -8,7 +8,7 @@
  
  1. GaussLabs Applied Scientist Intern (Computer Vision and Image Processing) 2022.6 ~ 2022.12
  2. Undergraduate Intern 2023.2 ~ ing
- 3. GDSC Ewha Core Member 2022.08 ~ ing
+ 3. GDSC Ewha Core Member 2022.08 ~ 2023.06
  4. BOAZ 16th Data Analyist Member 2021.1 ~ 2022.6
   
 <h2>🔭 I’m currently working on</h2>
